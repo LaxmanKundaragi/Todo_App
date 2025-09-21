@@ -10,6 +10,18 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+✅ Summary (Step Flow)
+
+Clone repo
+
+cd into folder
+
+git checkout main && git pull origin main
+
+git checkout -b your-branch-name
+
+git push origin your-branch-name
 // I am testing the workflow of a git husb i need to learn very welemlemelmn
 // /#jnjcjjkbckjncjknv
 // @kncnkjncjb/ 

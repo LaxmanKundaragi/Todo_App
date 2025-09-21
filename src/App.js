@@ -13,4 +13,16 @@ function App() {
   );
 }
 
+// ✅ Summary (Step Flow)
+
+// Clone repo
+
+// cd into folder
+
+// git checkout main && git pull origin main
+
+// git checkout -b your-branch-name
+
+// git push origin your-branch-name
+
 export default App;

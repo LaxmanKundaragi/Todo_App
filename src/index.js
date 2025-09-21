@@ -11,9 +11,24 @@ root.render(
   </React.StrictMode>
 );
 // I am testing the workflow of a git husb i need to learn very welemlemelmn
-/#jnjcjjkbckjncjknv
+// /#jnjcjjkbckjncjknv
 // @kncnkjncjb/ 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+
+// ✅ Summary (Step Flow)
+
+// Clone repo
+
+// cd into folder
+
+// git checkout main && git pull origin main
+
+// git checkout -b your-branch-name
+
+// git push origin your-branch-name
+
+
+
 reportWebVitals();

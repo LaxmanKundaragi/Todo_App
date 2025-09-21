@@ -15,6 +15,20 @@ const getLocalstroargeData = () => {
     }
 }
 
+
+Edit the conflicting files manually
+
+Stage the resolved files:
+
+git add .
+git commit
+
+7️⃣ Push your branch to remote
+git push origin your-branch
+
+
+Your branch is now updated on r
+
 const Todo = () => {
     const [inputData, setInputData] = useState("")
     const [items, setItems] = useState(getLocalstroargeData())
